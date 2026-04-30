@@ -10,9 +10,9 @@ Exploratory data analysis on a global restaurant dataset (~9,500 restaurants acr
 
 | File | Contents |
 |---|---|
-| `Data_Analysis.ipynb` | Level 1 + Level 2 — all 8 tasks |
+| `Data_Analysis_Level_1&2.ipynb` | Level 1 + Level 2 — all 8 tasks |
 | `Data_Analysis_Level_3.ipynb` | Level 3 — all 3 tasks |
-| `Dataset.csv` | Source dataset (restaurant records) |
+| `Data Analysis.csv` | Source dataset (restaurant records) |
 
 ---
 
